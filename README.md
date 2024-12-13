@@ -16,3 +16,5 @@ Las emociones desempeñan un papel crucial en la comunicación humana, y su iden
 
 Clasificar emociones es un desafío debido a la diversidad cultural, las variaciones individuales y la influencia del contexto.
 
+## Objetivo del Proyecto
+Este proyecto tiene como objetivo construir un clasificador que identifique emociones comunes como alegría, tristeza, enojo, sorpresa, miedo y neutralidad a partir de imágenes de rostros.
