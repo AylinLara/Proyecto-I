@@ -33,4 +33,9 @@ El conjunto de datos consta de imágenes que capturan a personas que muestran si
 - **Facial Emotion Dataset**
 Este conjunto de datos consta de imágenes en escala de grises de rostros, cada uno con dimensiones de 48x48 píxeles. Las imágenes están preprocesadas para garantizar que cada rostro esté alineado centralmente y ocupe una cantidad de espacio constante. El desequilibrio de clases se ha mitigado ampliando las imágenes hasta cierto punto, aunque sigue habiendo cierto nivel de desequilibrio. Todas las imágenes están en formato .jpg y .jpeg.
 
+## Enlaces Relevantes
+- [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
+- [Facial Emotion Recognition Dataset](https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition)
+- [Facial Emotion Dataset](https://www.kaggle.com/datasets/dilkushsingh/facial-emotion-dataset)
+
 
