@@ -17,4 +17,20 @@ Las emociones desempeñan un papel crucial en la comunicación humana, y su iden
 Clasificar emociones es un desafío debido a la diversidad cultural, las variaciones individuales y la influencia del contexto.
 
 ## Objetivo del Proyecto
-Este proyecto tiene como objetivo construir un clasificador que identifique emociones comunes como alegría, tristeza, enojo, sorpresa, miedo y neutralidad a partir de imágenes de rostros.
+Este proyecto tiene como objetivo construir un clasificador que identifique emociones comunes como alegría, tristeza, enojo, sorpresa, miedo, disgusto y neutralidad a partir de imágenes de rostros.
+
+## Descripción General del Conjunto de Datos
+
+Utilizamos varios conjuntos de datos que encontramos en la plataforma Kaggle, contienen carpetas etiquetadas en 7 categorías de emociones: felicidad, tristeza, enojo, miedo, sorpresa, disgusto y neutralidad.
+
+- **FER-2013**
+FER-2013 (Facial Expression Recognition 2013) es un conjunto de datos ampliamente utilizado en tareas de reconocimiento de emociones. Los datos consisten en imágenes de rostros en escala de grises de 48 x 48 píxeles. Los rostros se han registrado automáticamente de modo que el rostro esté más o menos centrado y ocupe aproximadamente la misma cantidad de espacio en cada imagen.
+El conjunto de entrenamiento consta de 28,709 ejemplos y el conjunto de prueba público consta de 3,589 ejemplos.
+
+- **Facial Emotion Recognition Dataset**
+El conjunto de datos consta de imágenes que capturan a personas que muestran siete emociones distintas. Las imágenes abarcan una amplia gama de individuos, incluidos distintos géneros, etnias y grupos de edad.
+
+-**Facial Emotion Dataset**
+Este conjunto de datos consta de imágenes en escala de grises de rostros, cada uno con dimensiones de 48x48 píxeles. Las imágenes están preprocesadas para garantizar que cada rostro esté alineado centralmente y ocupe una cantidad de espacio constante. El desequilibrio de clases se ha mitigado ampliando las imágenes hasta cierto punto, aunque sigue habiendo cierto nivel de desequilibrio. Todas las imágenes están en formato .jpg y .jpeg.
+
+
